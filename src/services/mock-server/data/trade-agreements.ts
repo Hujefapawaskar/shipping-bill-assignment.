@@ -1,6 +1,6 @@
 // Source: https://www.icegate.gov.in/Webappl/Ftp
 
-export const Trades = [
+export const tradeAgreements = [
   { value: 'NCPTI', label: 'NCPTI - Preferential Trade Benefit not claimed at Importing Country	' },
   { value: 'FTA0SL', label: 'FTA0SL - India - Sri Lanka FTA' },
   { value: 'FTA0SA', label: 'FTA0SA - Agreement on SAFTA' },

@@ -61,3 +61,11 @@ ignoreWords:
   - insaurance
   - commissionerate
   - packging
+  # Customs / domain terms
+  - NCPTI
+  - EPCG
+  - LOCODE
+  - RoSCTL
+  - MSKU
+  - BTSL
+  - ESEAL
